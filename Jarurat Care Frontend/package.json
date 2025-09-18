@@ -1,0 +1,23 @@
+{
+  "name": "jarurat-care-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "vansh",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.9.0",
+    "@tailwindcss/postcss": "^4.1.13",
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-redux": "^9.2.0",
+    "react-router": "^7.9.1",
+    "tailwindcss": "^4.1.13"
+  }
+}
