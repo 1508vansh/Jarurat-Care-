@@ -5,7 +5,7 @@ A clean and easy-to-use **patient management system** built with React, designed
 ---
 
 ## 🌍 Live Demo
-Check out the live project here: [Jarurat Care Dashboard](https://your-vercel-link.vercel.app)
+Check out the live project here: [Jarurat Care Dashboard](https://jarurat-care-project.netlify.app/)
 
 ---
 
