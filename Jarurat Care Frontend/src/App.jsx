@@ -13,7 +13,8 @@ function App() {
   return (
     <Provider store={store}>
       <div className="min-h-screen bg-gray-50">
-        <Navbar />
+        <Navbar/>
+        <div>
         <main className="container mx-auto px-4 py-6">
           <Routes>
             <Route path="/" element={<Home />} />
@@ -21,6 +22,7 @@ function App() {
             <Route path="/about" element={<About />} />
           </Routes>
         </main>
+        </div>
       </div>
     </Provider>
   );

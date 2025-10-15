@@ -6,7 +6,7 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="bg-teal-600 text-white">
+    <header className="bg-teal-600 text-white z-10 sticky top-0 left-0 right-0">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center gap-2">
           <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center">
