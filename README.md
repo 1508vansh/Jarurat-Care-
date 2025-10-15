@@ -71,16 +71,16 @@ This will generate files inside the build folder that can be deployed to any hos
 
 
 ### 🏠 Home Page
-![Home Page](./screenshots/HomePage.png)
+![Home Page](Jarurat%20Care%20Frontend/screenshots/HomePage.png)
 
 ### 🧾 Patients Page
-![Patients Page](./screenshots/PatientRecord.png)
+![Patients Page](Jarurat%20Care%20Frontend/screenshots/PatientRecord.png)
 
 ### 🗂 Patient Details Modal
-![Patient Details Modal](./screenshots/Patient-Modal-View.png)
+![Patient Details Modal](Jarurat%20Care%20Frontend/screenshots/Patient-Modal-View.png)
 
 ### 🧾 About Page
-![About Page](./screenshots/AboutPage.png)
+![About Page](Jarurat%20Care%20Frontend/screenshots/AboutPage.png)
 
 ## 📜 About
 
